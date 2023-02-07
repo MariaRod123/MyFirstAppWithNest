@@ -14,4 +14,8 @@
 
 4- Estructura del proyecto
 
+![2023-02-07_14h52_45](https://user-images.githubusercontent.com/72228855/217326593-557f39ff-32cb-424e-bf66-77073feeedb7.png)
+
+
+
 
